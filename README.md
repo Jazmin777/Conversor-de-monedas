@@ -17,7 +17,7 @@ Tecnologías utilizadas
 
 Instalación
 
-1-Descarga o clona este repositorio: https://github.com/Jazmin777/Conversor-de-monedas.git
+1-Descarga o clona este repositorio: https://github.com/Jazmin777/Conversor-de-monedas/edit/master/README.md
 
 2-Abre el proyecto en IntelliJ IDEA o VS Code.
 

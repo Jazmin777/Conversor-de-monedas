@@ -1,3 +1,4 @@
+<img width="1309" height="663" alt="foto de funcionalidad" src="https://github.com/user-attachments/assets/a9099c29-fc14-4991-8977-c56a288e8319" />
 #Conversor-de-monedas
 
 Conversor de Monedas en Java que convierte varias divisas a USD usando la API ExchangeRate. Incluye menú interactivo en consola, filtrado de monedas, manejo de errores y muestra tasas de cambio actualizadas en tiempo real.
